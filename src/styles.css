@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://wallpaperaccess.com/full/2835338.jpg");
+  color: #fff;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.Display {
+  display: inline-block;
+  margin: auto;
+  padding: 15px;
+  font-family: "Courier New", Courier, monospace;
+  text-shadow: 2px 2px gray;
+}
+
+.Display img {
+  max-height: 200px;
+}
+
+.Form {
+  margin: auto;
+  border: transparent;
+}
+
+form input {
+  display: inline-block;
+  height: 3rem;
+  width: 65%;
+  margin-right: 5%;
+}
+
+form button {
+  width: 20%;
+  padding: 1rem 0;
+  color: #fff;
+}
+
+img {
+  border: 2px ridge #fff;
+  border-radius: 3px;
+}
